@@ -2,6 +2,8 @@
 
 CS7642 Project 2: OpenAI’s Lunar Lander problem, an 8-dimensional state space and 4-dimensional action space problem. The goal was to create an agent that can guide a space vehicle to land autonomously in the environment without crashing. 
 
+This is an implementation of Double Deep Q-learning with experience replay trained with 5000 epochs.
+
 ![Alt Text](etc/lunarlander.gif)
 
 
