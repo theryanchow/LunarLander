@@ -23,3 +23,6 @@ This is an implementation of Double Deep Q-learning with experience replay train
 - Trained agent result (reward vs episode) is saved in the results/ directory as trained_agent.txt
 - Hyperparameter search results (reward vs episode) is saved in the results/ directory as files in alpha search and gamma search
 - Performance graphs are found in the graphs/ directory
+
+![Alt Text](graphs/alpha.png)
+![Alt Text](graphs/training.png)
